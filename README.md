@@ -13,12 +13,6 @@
 <p align="left">
 <a href="https://fb.com/mr.sayem.2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mr.sayem.2" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sayem234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Sayem234" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/n/a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="n/a" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/n/a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="n/a" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/n/a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="n/a" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/n/a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="n/a" height="30" width="40" /></a>
-<a href="https://discord.gg/N/A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="N/A" height="30" width="40" /></a>
-<a href="/n/a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="n/a" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
